@@ -7,7 +7,7 @@ It performs basic arithmetic operations plus modulus and exponentiation, with re
 
 - Real-time validation of user input with inline error messages  
 - Supports addition, subtraction, multiplication, division, modulus, and exponentiation  
-- Calculate button is enabled only when valid inputs are entered  
+- The calculate button is enabled only when valid inputs are entered  
 - Reset button clears all inputs, errors, and results  
 - Keyboard support: press Enter to calculate results  
 - Smooth fade-in animation on result display  
@@ -29,5 +29,5 @@ It performs basic arithmetic operations plus modulus and exponentiation, with re
 ## Future Enhancements
 
 - Add history of calculations stored in localStorage  
-- Extend calculator to support more complex operations  
+- Extend the calculator to support more complex operations  
 - Add dark mode toggle and animation effects  
