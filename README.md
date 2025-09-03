@@ -24,7 +24,6 @@ It performs basic arithmetic operations plus modulus and exponentiation, with re
 ## How to Use
 
 1. Open `index.html` in your browser.  
-2. Enter two numbers in the input fields.  
 ## Technologies Used
 
 - HTML5 for markup  
