@@ -26,7 +26,6 @@ It performs basic arithmetic operations plus modulus and exponentiation, with re
 1. Open `index.html` in your browser.  
 2. Enter two numbers in the input fields.  
 3. Click **Calculate** or press Enter to see results.  
-4. Click **Reset** to clear all inputs and results.
 
 ## Technologies Used
 
