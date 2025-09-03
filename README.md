@@ -22,8 +22,6 @@ It performs basic arithmetic operations plus modulus and exponentiation, with re
 - Responsive design optimized for desktops and mobile devices  
 
 ## How to Use
-
-1. Open `index.html` in your browser.  
 ## Technologies Used
 
 - HTML5 for markup  
