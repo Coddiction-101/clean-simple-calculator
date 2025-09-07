@@ -30,5 +30,5 @@ It performs basic arithmetic operations, including modulus and exponentiation, w
 ## Future Enhancements
 
 - Add history of calculations stored in localStorage  
-- Extend the calculator to support more complex operations  
+- Extend the calculator to support more complex and scientific operations  
 - Add dark mode toggle and animation effects  
