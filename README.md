@@ -1,6 +1,6 @@
 # Simple JavaScript Calculator
 
-A minimal and responsive calculator web app with validation and smooth User-experience.
+A minimal and responsive calculator web app with validation and a smooth user experience.
 
 🚀 **Live Demo:** https://clean-simple-calculator.netlify.app/
 
